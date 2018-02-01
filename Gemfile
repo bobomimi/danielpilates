@@ -58,3 +58,5 @@ gem 'rails_12factor', group: :production
 gem 'frontend-generators'
 
 gem 'jquery-rails'
+
+gem 'mail_form', '~> 1.7'
