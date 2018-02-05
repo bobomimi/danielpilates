@@ -36,7 +36,6 @@ h6 {
     font-weight: 700;
 }
 
-
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -45,8 +44,6 @@ hr.star-primary {
     border: 0;
     border-top: solid 5px;
     text-align: center;
-    overflow: visible;
-
 }
 
 hr.star-light:after,
@@ -86,7 +83,7 @@ header {
     text-align: center;
     color: #fff;
     background: #18bc9c;
- }   
+}
 
 header .container {
     padding-top: 100px;
@@ -96,7 +93,6 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
-    
 }
 
 header .intro-text .name {
