@@ -86,8 +86,7 @@ header {
     text-align: center;
     color: #fff;
     background: #18bc9c;
-    
-}
+ }   
 
 header .container {
     padding-top: 100px;
@@ -97,6 +96,7 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+    
 }
 
 header .intro-text .name {
